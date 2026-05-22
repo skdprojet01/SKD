@@ -1,5 +1,5 @@
 {
-  "name": "Remix: SPX SKD",
+  "name": "SKD",
   "description": "เครื่องมือจำลองพิกัดและเส้นทาง GPS สำเร็จรูป พร้อมปุ่มกดสถานที่ แผนที่โต้ตอบ และการจำลองทิศทางด้วยปุ่มควบคุม",
   "requestFramePermissions": [
     "geolocation"

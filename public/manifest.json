@@ -1,6 +1,6 @@
 {
-  "name": "SPX SKD",
-  "short_name": "SPX SKD",
+  "name": "SKD",
+  "short_name": "SKD",
   "description": "ระบบจำลองพิกัดและเส้นทาง GPS สำเร็จรูป พร้อมปุ่มกดสถานที่ แผนที่โต้ตอบ และการจำลองทิศทางด้วยปุ่มควบคุม",
   "start_url": "/",
   "display": "standalone",
@@ -19,7 +19,8 @@
     {
       "src": "./icon-192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
