@@ -1,0 +1,25 @@
+{
+  "name": "SPX SKD",
+  "short_name": "SPX SKD",
+  "description": "ระบบจำลองพิกัดและเส้นทาง GPS สำเร็จรูป พร้อมปุ่มกดสถานที่ แผนที่โต้ตอบ และการจำลองทิศทางด้วยปุ่มควบคุม",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#dc2626",
+  "orientation": "any",
+  "scope": "/",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
